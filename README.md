@@ -1,6 +1,6 @@
 # Social care Gmail add-on
 
-This is a simple little [Google Workspace add-on](https://workspace.google.com/products/add-ons/) to simplify the workflow of social workers.
+This is a little [Google Workspace add-on](https://workspace.google.com/products/add-ons/) to simplify the workflow of social workers.
 
 Lots of time is spent manually copying emails into case notes and saving them to a resident, so there is an official record of the communication.
 
