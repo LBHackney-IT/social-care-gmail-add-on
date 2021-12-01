@@ -10,6 +10,6 @@ It works with an API endpoint [defined here](https://github.com/LBHackney-IT/lbh
 
 ## Setting it up
 
-1. Copy the code across into [script.google.com](https://script.google.com)
+1. Copy all the code across into a new [script.google.com](https://script.google.com) project.
 2. Add values for the `PropertyService` keys `endpoint` and `token` to match the API endpoint the add-on needs to POST to. The code for doing this will look like `PropertiesService.getScriptProperties().setProperty("token", "example")`.
 3. [Share the add-on for testing](https://developers.google.com/apps-script/add-ons/how-tos/testing-editor-addons), or [publish it](https://developers.google.com/apps-script/add-ons/how-tos/publish-add-on-overview) for a wide release.
